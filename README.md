@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Monem
-#### I am a Student at faculty of Computers and AI - Cairo university.
+### Hi there 👋, I'm Monem
+#### I am a student in the faculty of Computers and AI 👨‍💻- at Cairo university.
 
 Skills: **Python** / **C++** / **SQLite** / **HTML** / **CSS**
 
