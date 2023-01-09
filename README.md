@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Monem
-#### I am a student in the faculty of Computers and AI 👨‍💻- at Cairo university.
+#### I am a student at the Faculty of Computers and AI 👨‍💻, Cairo university.
 
-Skills: **Python** / **C++** / **SQLite** / **HTML** / **CSS**
+Skills: **C++** / **OOP** / **HTML/CSS** / **Python**
 
-- 🌱 I’m currently learning **JS** and **Django** 
+- 🌱 I’m currently learning **JS** and **Django**
 - 📫 How to reach me: **abdoeladawy4@gmail.com** 
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mn3mnn)
