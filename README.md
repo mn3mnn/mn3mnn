@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Monem
 #### I am a student at the Faculty of Computers and AI 👨‍💻, Cairo university.
 
-Skills: **C++** / **OOP** / **DSA** / **HTML/CSS** / **Python** / **Selenium** / **Git** / **MS SQL server**
+Skills: **C++** / **OOP** / **DSA** / **Python** / **Django** / **Web Scraping** / **Git** / **MS SQL server**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me: **abdoeladawy4@gmail.com**
 - 🌐 **https://monem.works**
 
