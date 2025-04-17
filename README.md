@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Monem
-#### I am a software developer.
-
-Skills: **C++** / **Python** / **Django** / **javascript** / **Web Scraping** / **Nodejs** / **SQL**
+#### I am a software engineer.
 
 - 📫 How to reach me: **abdoeladawy4@gmail.com**
 - 🌐 **https://monem.works**
